@@ -1,0 +1,27 @@
+# Histórico e sessões
+history.jsonl
+sessions/
+cache/
+shell-snapshots/
+debug/
+downloads/
+file-history/
+plans/
+todos/
+backups/
+plugins/
+
+# Configs sensíveis
+settings.json
+mcp-needs-auth-cache.json
+session-env/
+
+# Scripts internos (ficam só local)
+scripts/
+
+# Repo local do segunda-feira
+segunda-feira/repo/
+
+# Sistema
+.DS_Store
+*.log
